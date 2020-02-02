@@ -4,6 +4,11 @@
   background-image: url('comedy-glasses.png');
   background-size: cover;
   height: 200px; width: 200px;
+  background-image: url("https://i.giphy.com/media/l1J9EQhfkb8tPu836/giphy.webp");
+  background-image: url("https://i.giphy.com/dkQ1CRCVHUaBi.gif");
+  background-image: url("https://media.giphy.com/media/vItlixZ8FZcqs/giphy.gif");
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
 }
 .mouthOpened {
   
@@ -22,7 +27,7 @@
 a {color: #eee; text-decoration: none}
 a:hover {color: blue;}
 body {overflow: auto; overflow-y: auto;
-    background-color: white;
+    background-color: black;
     background-attachment: fixed;
     background-position: center;
     background-size: contain;
